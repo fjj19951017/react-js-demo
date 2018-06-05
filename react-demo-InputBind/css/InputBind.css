@@ -1,0 +1,10 @@
+.container {
+    margin: 0 auto;
+}
+.bind-div {
+    height: 40px;
+    width: 100px;
+    border: 1px solid #000;
+    margin: 10px;
+    line-height: 40px;
+}
